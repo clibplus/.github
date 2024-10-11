@@ -18,15 +18,6 @@ To avoid re-inventing the wheels for future projects and to attract more develop
 
 - A quick and temporary python script will be made for this until an official version is made...!
 
-
-``Sub-Libs: <clibs/Net/*.h>``
-```
-Garbage Collector           : sudo apt install build-essential
-Thead                       : sudo apt install build-essential
-String, Array, Map          : sudo apt install build-essential
-OS                          : sudo apt install build-essential
-```
-
 # Progress
 
 <p>Symbol Definitions:<p>
