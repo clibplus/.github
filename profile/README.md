@@ -30,8 +30,10 @@ To avoid re-inventing the wheels for future projects and to attract more develop
 ✅⚠️  String Lib ( Could use improvements )
 ✅⚠️  Array Lib ( Could use improvements )
 ✅⚠️  Map Lib ( Could use improvements )
-🛠️    Request Lib
+🛠️⚠️  Request Lib
 🛠️    Web Server Lib
+🛠️    Web Socket Lib
+🛠️    cGUI Lib
 ```
 
 # Install
