@@ -27,13 +27,13 @@ To avoid re-inventing the wheels for future projects and to attract more develop
 ```
 ✅    Garbage Collector Lib
 ✅⚠️  Thread Lib 
-✅⚠️  String Lib ( Could use improvements )
+✅⚠️  String Lib
 ✅⚠️  Array Lib ( Could use improvements )
 ✅⚠️  Map Lib ( Could use improvements )
 🛠️⚠️  Request Lib
-🛠️    Web Server Lib
+✅⚠️  Web Server Lib
 🛠️    Web Socket Lib
-🛠️    cGUI Lib
+🛠️⚠️  cGUI Lib
 ```
 
 # Install
@@ -41,8 +41,21 @@ To avoid re-inventing the wheels for future projects and to attract more develop
 Installing the extension library is just as easy as 
 
 ```
+    // Install the package manager
 git clone https://github.com/clibplus/clibplus.git
 cd clibplus; make
+
+    // Install libraries using the package manager
+    // pm -i str
+
+        cLib+ Package Manager | v0.0.1 [BETA]
+Usage: pm [OPTIONS]....
+
+   Flag            Description
+______________________________________________
+   -l             List of cLib+ sub-pkg and sub-libs
+   -i             Install a cLib+ sub-pkg or sub-library
+   -r             Show a list of cLib+ Libraries to install
 ```
 
 # Have Questions Or Want to Contribute?
